@@ -1,20 +1,36 @@
 # Treasure Island
 
-A classic text-based adventure game.  
-Only one path leads to the treasure!
+Classic text-based adventure game – only one path leads to the treasure!
 
 ### How to Play
-- You're at a crossroad → choose **left** or **right**
-- Lake → **wait** for boat or **swim**
-- Three doors → **red**, **yellow**, or **blue**
+You make 3 critical choices:
+- At the crossroad → **left** or **right**
+- At the lake → **wait** for a boat or **swim**
+- At the house → choose one of three doors: **red**, **yellow**, or **blue**
 
-Winning path: **left → wait → yellow**
+Winning combination: **left → wait → yellow**
 
-### Example (winning)
+Any other path = Game Over!
+
+### Features
+- Beautiful ASCII art logo
+- Fully in English (perfect for international recruiters)
+- Multiple dramatic endings
+- Clean, well-commented code
+
+### Example (winning path)
 Type "left" or "right": left
 Type 'wait' or 'swim': wait
 Which door do you choose? yellow
+You open the yellow door...
 CONGRATULATIONS! You found the treasure! YOU WIN!
-text### How to Run
+██╗   ██╗ ██████╗ ██╗   ██╗    ██╗    ██╗██╗███╗   ██╗!
+╚██╗ ██╔╝██╔═══██╗██║   ██║    ██║    ██║██║████╗  ██║!
+╚████╔╝ ██║   ██║██║   ██║    ██║ █╗ ██║██║██╔██╗ ██║!
+╚██╔╝  ██║   ██║██║   ██║    ██║███╗██║██║██║╚██╗██║!
+██║   ╚██████╔╝╚██████╔╝    ╚███╔███╔╝██║██║ ╚████║!
+╚═╝    ╚═════╝  ╚═════╝      ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝!
+
+### How to Run
 ```bash
 python main.py
