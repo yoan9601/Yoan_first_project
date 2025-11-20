@@ -15,7 +15,7 @@ How many symbols would you like? 3
 How many numbers would you like? 4
 Your generated password is:
 kJ9@mPx#2vL$nR5&
-Length: 17 characters | Very Strong
+Length: 17 characters | Very Strong 
 
 ### How to Run
 ```bash
